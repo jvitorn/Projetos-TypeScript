@@ -1,6 +1,6 @@
 namespace empresa {
 
-    export class Pessoa {
+    export abstract class Pessoa {
         
         private nome : string;
         private dtNascimento : string;

@@ -1,8 +1,8 @@
-///<reference path="pessoa.ts"/>
+///<reference path="cliente.ts"/>
 
 namespace empresa {
 
-    let p = new Pessoa();
+    let p = new Cliente();
 
     p.setNome("jdc");
     p.setDtNascimento('14/02/1993');
